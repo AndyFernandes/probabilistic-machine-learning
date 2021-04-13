@@ -18,6 +18,6 @@ Disciplina do mestrado de Ciência da Computação, Universidade Federal do Cear
 ---
 
 <!-- # Trabalho 4 - -->
-<!-- * [Dicionário com árvore AVL](Trabalho04/). -->
+* [GMM via MAP](Trabalho04/).
 
 
