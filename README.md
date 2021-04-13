@@ -17,7 +17,7 @@ Disciplina do mestrado de Ciência da Computação, Universidade Federal do Cear
 
 ---
 
-<!-- # Trabalho 4 - -->
+# Trabalho 4 -
 * [GMM via MAP](Trabalho04/).
 
 
